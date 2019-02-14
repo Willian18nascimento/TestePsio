@@ -21,7 +21,7 @@ public class MeuSegundoPrograma {
         // TODO code application logic here
         
         System.out.print("Olá Wennne!");
-        JOptionPane.showMessageDialog(null,"Oládfdjfhashdfna");
+        JOptionPane.showMessageDialog(null,"TeteGitHub");
         
         
         
